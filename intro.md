@@ -1,7 +1,6 @@
-Welcome to your Jupyter Book
+Estado Academico
 ============================
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Estimado Estudiante Edgar Guamo M. Bienvenido al sistema se gestion academica de la UTPL
 
-Check out the content pages bundled with this sample book to get started.
+Las asignaturas tomadas estan dividas en dos secciones, revise y responda.

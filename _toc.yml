@@ -6,3 +6,7 @@
   sections:
     - file: markdown
     - file: notebooks
+- file: Estado de las asignaturas
+  sections:
+    - file: asignaturasAprobadas
+    - file: asignaturasPorAprobar
