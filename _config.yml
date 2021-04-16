@@ -3,7 +3,7 @@
 
 title: Test book for to try the first option
 author: Edgar Guamo M
-logo: image/logoUtpl.png
+logo: images/logoUtpl.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
